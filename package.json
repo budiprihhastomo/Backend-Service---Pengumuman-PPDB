@@ -1,0 +1,16 @@
+{
+  "name": "ppdb_backend",
+  "version": "0.50.0",
+  "description": "Backend Service Untuk Project PPDB",
+  "main": "app.ts",
+  "scripts": {
+    "dev": "ts-node app.js"
+  },
+  "author": "Budi Prih Hastomo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.2"
+  }
+}
